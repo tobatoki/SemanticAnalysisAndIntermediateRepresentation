@@ -1,0 +1,13 @@
+p
+y	=	5
+isOn
+isOff
+switch
+HELLO:	
+		i	= 1
+		x	= 5
+		return 
+GETISOFF:	
+		return hello
+MAIN:
+		z	=	call getIsOff, 0

@@ -1,0 +1,18 @@
+MULTIPLY:	
+	label 1:
+		minus_sign =  True_
+		x	= -x
+		result	= 0
+	label 2:
+		result	= -result
+		return 
+MAIN:
+		arg_1	= -6
+		arg_2 =  five
+		arg_1	= -5
+		param	arg_1
+		param	arg_2
+		result	=	call working, 2
+		param	a_
+		param	b_____
+		x	=	call multi, 2

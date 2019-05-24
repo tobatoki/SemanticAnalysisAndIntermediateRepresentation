@@ -1,0 +1,5 @@
+
+FUNC:	
+		return 
+MAIN:
+		goto	func

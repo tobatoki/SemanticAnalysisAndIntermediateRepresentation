@@ -1,0 +1,17 @@
+MULTIPLY:	
+	label 1:
+		minus_sign	= true
+		x	= -x
+		result	= 0
+	label 2:
+		result =  result x +
+		y =  y 1 -
+	label 3:
+		result	= -result
+		return result
+MAIN:
+		arg_1	= -6
+		arg_2 =  five
+		param	arg_1
+		param	arg_2
+		result	=	call multiply, 2

@@ -1,0 +1,11 @@
+i
+TEST_FN:	
+		i	= 0
+		return 
+MAIN:
+		i	= 1
+		param	i
+		param	a
+		param	c
+		param	D
+		i	=	call test_fn, 4
